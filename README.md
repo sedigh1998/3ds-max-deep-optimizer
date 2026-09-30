@@ -25,10 +25,10 @@ A lightweight bilingual desktop tool that recursively scans folders for `.max` f
     python deep_optimizer.py
 ## Usage
 1. Select a root folder
-2. Choose an output format
+2. Choose an output format from the dropdown
 3. Adjust the optimization slider (1% = max reduction, 100% = no change)
 4. Click Start
 5. Each file produces `filename_Normal.<ext>` and `filename_Optimized.<ext>`
-6. Report saved as `deep_process_report.txt`
+6. Full report saved as `deep_process_report.txt`
 ## License
-MIT License - see LICENSE file.
+MIT License - see the LICENSE file.
